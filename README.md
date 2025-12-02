@@ -62,7 +62,7 @@ Any student can join cybersecurity clubs, attend awareness events, or take free 
 # 🔗 Project Links
 
 ### 📝 Narrative (Google Doc)
-*Insert your Google Doc link here*
+[Our Narrative Site]()
 
 ### 🧩 Wireframe (Low-Fidelity)
 [Our Wireframe](https://www.figma.com/design/BhP5bSqr68qqWuASdgLULC/Wireframe-Course-Project--Design-Focused-M?node-id=0-1&t=VRVqzENuJmjBJU8m-1)
@@ -72,8 +72,8 @@ Any student can join cybersecurity clubs, attend awareness events, or take free 
 
 # 👥 Team Members
 - **Samuel Avila Varela**  
-- **Patrick [Last Name]**  
-- **[Teammate #3 Name]**
+- **Patrick Gregorio**  
+- **Xavier Ayala**
 
 ---
 
