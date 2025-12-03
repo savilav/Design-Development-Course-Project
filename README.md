@@ -67,7 +67,7 @@ Any student can join cybersecurity clubs, attend awareness events, or take free 
 ### 🧩 Wireframe (Low-Fidelity)
 [Our Wireframe](https://www.figma.com/design/BhP5bSqr68qqWuASdgLULC/Wireframe-Course-Project--Design-Focused-M?node-id=0-1&t=VRVqzENuJmjBJU8m-1)
 ### 🎨 Prototype (High-Fidelity Mockup)
-[Our Prototype](https://www.figma.com/design/kpvlu5vDsgQMIBK1pvhaI4/Course-Project--Design-Focused?node-id=108-27&t=IagbMyw2MxVk5NO1-1)
+[Our Prototype](https://www.figma.com/proto/kpvlu5vDsgQMIBK1pvhaI4/Course-Project--Design-Focused?node-id=108-27&p=f&t=1yCmfq197bsDyZpu-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
 ---
 
 # 👥 Team Members
