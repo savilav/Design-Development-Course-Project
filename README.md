@@ -61,8 +61,8 @@ Any student can join cybersecurity clubs, attend awareness events, or take free 
 
 # 🔗 Project Links
 
-### 📝 Narrative (Google Doc)
-[Our Narrative Site]()
+### 📝 Narrative (Google Slide)
+[Our Narrative's Slides](https://docs.google.com/presentation/d/13Lo4pSGXHdC3LNXTa0JH3fumVqOn4m5osHq8ToJoj7w/edit?usp=sharing)
 
 ### 🧩 Wireframe (Low-Fidelity)
 [Our Wireframe](https://www.figma.com/design/BhP5bSqr68qqWuASdgLULC/Wireframe-Course-Project--Design-Focused-M?node-id=0-1&t=VRVqzENuJmjBJU8m-1)
